@@ -3,7 +3,7 @@
 #### I am a Software Developement graduate student at the University Of Utah 
 #### I graduate 12/2023
 
-## I have takent the following courses:
+## I have taken the following courses:
 
 ### Introduction to Software Development in c++ 
 ### Computer Programming in Java

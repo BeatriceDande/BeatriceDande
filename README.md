@@ -11,7 +11,9 @@
 ### Data structures and Algorithms in Java
 ### Software Engineering in c++
 ### Computer Architecture and Operating systems
+#### example project:[Thread Safe Queue]
 ### Computer Networks and Security
+#### example project:[DNS Resolver]
 
 ## I'm currently taking the following courses:
 ### Database Systems and Applications
@@ -19,6 +21,8 @@
 
 [linkedIn]: https://www.linkedin.com/in/beatrice-dande
 [slack clone]: https://github.com/BeatriceDande/BeatriceDande/tree/main/basicSlackClone
+[DNS Resolver]:https://github.com/BeatriceDande/BeatriceDande/tree/main/DNSResolver
+[Thread Safe Queue]:https://github.com/BeatriceDande/BeatriceDande/tree/main/threadSafeQueue
 
 <!--
 **BeatriceDande/BeatriceDande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

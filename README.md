@@ -9,6 +9,7 @@
 ### Computer Programming in Java 
 #### example project [slack clone]
 ### Data structures and Algorithms in Java
+#### example project: [HashSet Implementation]
 ### Software Engineering in c++
 ### Computer Architecture and Operating systems
 #### example project:[Thread Safe Queue]
@@ -23,6 +24,7 @@
 [slack clone]: https://github.com/BeatriceDande/BeatriceDande/tree/main/basicSlackClone
 [DNS Resolver]:https://github.com/BeatriceDande/BeatriceDande/tree/main/DNSResolver
 [Thread Safe Queue]:https://github.com/BeatriceDande/BeatriceDande/tree/main/threadSafeQueue
+[HashSet Implementation]: https://github.com/BeatriceDande/BeatriceDande/tree/main/HashTableImplementation/src
 
 <!--
 **BeatriceDande/BeatriceDande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

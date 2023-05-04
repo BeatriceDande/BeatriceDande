@@ -1,0 +1,51 @@
+
+html, body {height:100%;}
+html {display:table; width:100%;}
+html{display: block; alignment: center; vertical-align: middle}
+body {display:table-cell; text-align:center; vertical-align:middle;}
+
+
+#activePeople{
+    flex:20%;
+    background-color: lightblue;
+    border: 2px outset black;
+    margin: 2px;
+    height: 500px;
+}
+#login{
+    padding-top: 40px;
+    alignment: center;
+    padding-bottom: 5px;
+    border: 2px;
+    border: saddlebrown;
+
+}
+#send{
+    padding-top: 5px;
+    alignment: center;
+    padding-bottom: 10px;
+    border: 2px;
+    border: cadetblue;
+
+}
+
+
+    #message{
+
+        background-color: lightsteelblue;
+        border: 1px outset black;
+        height: 500px;
+        width: 600px;
+        color: midnightblue;
+        text-align: left;
+        margin: 2px 2px 2px 200px;
+
+
+
+
+    }
+
+
+
+
+

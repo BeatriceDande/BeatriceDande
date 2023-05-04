@@ -6,7 +6,8 @@
 ## I have taken the following courses:
 
 ### Introduction to Software Development in c++ 
-### Computer Programming in Java
+### Computer Programming in Java 
+#### example project [slack clone]
 ### Data structures and Algorithms in Java
 ### Software Engineering in c++
 ### Computer Architecture and Operating systems
@@ -17,6 +18,7 @@
 ### Data Analytics and Visualization
 
 [linkedIn]: https://www.linkedin.com/in/beatrice-dande
+[slack clone]: https://github.com/BeatriceDande/BeatriceDande/tree/main/basicSlackClone
 
 <!--
 **BeatriceDande/BeatriceDande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
